@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+# Here is some test comments to see if git can see it
 
 
 def dataGen(sampleSize=100):
